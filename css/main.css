@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+
+
+table{
+margin: 0 auto;
+margin-top: 150px;
+font-size:  15px;
+background-color: lightblue;
+
+
+}
+.correct{
+    background-color: red;
+    color: white;
+}
+/* .levels :hover{
+cursor: pointer;
+} */
